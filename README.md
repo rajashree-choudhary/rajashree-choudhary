@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Analytics
 - 📫 How to reach me: rajashree.choudhary@outlook.com
 - 👨‍💻 All of my projects are available at github.com/rajashree-choudhary
-- ⚡ Fun fact: ...
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
