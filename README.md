@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, Machine learning, SQL, Tableau
 - 💬 Ask me about Data Analytics
 - 📫 How to reach me: rajashree.choudhary@outlook.com
-- 👨‍💻 All of my projects are available at github.com/rajashree-choudhary
+- 👨‍💻 All of my projects are available at <a href = www.github.com/rajashree-choudhary> github.com/rajashree-choudhary </a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
